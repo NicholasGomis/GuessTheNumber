@@ -1,5 +1,3 @@
-# GuessTheNumber
-
 <h1 align = "center"> ❓GuessTheNumber ❓</h1>
 
 **Table of Contents**
